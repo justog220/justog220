@@ -1,6 +1,12 @@
 ## 👋 About Me
 Currently studying for Bachelor's degree in Bioinformatics. 
 
+## 💻 Skills
+- Programming Languages: Python, Bash, C++
+- Data Analysis: Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- Database Management: SQL
+- Version Control: Git, GitHub
+
 ## 📫 Contact
 - Email: justo.garcia@ingenieria.uner.edu.ar
 <!--
